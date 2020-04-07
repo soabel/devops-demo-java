@@ -1,0 +1,3 @@
+com/soabel/demoapp/catalog/CatalogApplication.class
+com/soabel/demoapp/catalog/model/Greeting.class
+com/soabel/demoapp/catalog/rest/GreetingController.class
